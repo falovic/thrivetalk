@@ -1,2 +1,58 @@
 /* Header */
 
+header .logo {
+    color: #62D0DF;
+    font-size: 24px;
+    line-height: 27px;
+    letter-spacing: -0.035em;
+}
+
+header .logo:hover {
+    color: #62D0DF;
+}
+
+header .nav-btn {
+    color: #fff;
+    font-size: 14px;
+    line-height: 16px;
+    padding: 20px 30px;
+    background: #62D0DF;
+    border-radius: 50px;
+    border: 2px solid transparent;
+}
+
+header .nav-btn:hover {
+    color: #62D0DF;
+    background: transparent;
+    border: 2px solid #62D0DF;
+    transition: 0.5s;
+}
+
+nav li {
+    display: inline-block;
+    padding: 0 10px 5px;
+    border-bottom: 2px solid transparent;
+}
+
+nav li:hover {
+    border-bottom: 2px solid #22356F;
+}
+
+nav a {
+    color: #22356F;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+nav a:hover {
+    color: #22356F;
+}
+
+
+/* #fluid-1 .hero-img {
+position: absolute;
+top: 47px;
+right: 0px;
+width: 808px;
+border-radius: 312.159px;
+} */
