@@ -1,0 +1,22 @@
+/* Why */
+
+.why h2 {
+    color: #fff;
+    font-size: 36px;
+    line-height: 27px;
+    letter-spacing: -0.006em;
+    padding: 150px 0 75px;
+}
+
+.why p {
+    color: #fff;
+    font-size: 20px;
+    line-height: 29.3px;
+    padding-bottom: 95px;
+}
+
+.why p span {
+
+    font-size: 24px;
+    line-height: 35.16px;
+}

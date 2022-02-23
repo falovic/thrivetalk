@@ -36,5 +36,27 @@ a {
     background-repeat: no-repeat;
     background-position: top right;  
     background-size: auto;
-    height: 840px; /* ? */
+    padding-bottom: 75px;
+}
+
+#fluid-2 {
+    background-color: #62D0DF;
+    background-image: url('../img/why-img.svg');
+    background-repeat: no-repeat;
+    background-position: right;  
+    background-size: auto;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ECF1F4;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #62D0DF;
 }

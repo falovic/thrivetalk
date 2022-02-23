@@ -1,17 +1,17 @@
 /* Header */
 
-header .logo {
+header span {
     color: #62D0DF;
     font-size: 24px;
     line-height: 27px;
     letter-spacing: -0.035em;
 }
 
-header .logo:hover {
+header span:hover {
     color: #62D0DF;
 }
 
-header .nav-btn {
+header .btn {
     color: #fff;
     font-size: 14px;
     line-height: 16px;
@@ -21,7 +21,7 @@ header .nav-btn {
     border: 2px solid transparent;
 }
 
-header .nav-btn:hover {
+header .btn:hover {
     color: #62D0DF;
     background: transparent;
     border: 2px solid #62D0DF;
@@ -48,6 +48,56 @@ nav a:hover {
     color: #22356F;
 }
 
+header .content {
+    margin-top: 190px;
+}
+
+header .content h1 {
+    color: #22356F;
+    font-size: 48px;
+    line-height: 53px;
+    letter-spacing: -0.035em;
+    margin: 50px 0 100px;
+}
+
+header .content p {
+    color: #22356F;
+    font-size: 24px;
+    line-height: 42px;
+}
+
+header .btn-2 {
+    color: #fff;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0.1em;
+    padding: 10px 30px;
+    margin: 60px 10px 0 0;
+    background: #F9B640;
+    border: 2px solid transparent;
+}
+
+header .btn-2:hover {
+    color: #F9B640;
+    background: transparent;
+    border: 2px solid #F9B640;
+    transition: 0.5s;
+}
+
+header .btn-3 {
+    color: #FAB63E;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0.1em;    
+    padding: 10px 30px;
+    border: 2px solid transparent;
+}
+
+header .btn-3:hover {    
+    color: #FAB63E;
+    border: 2px solid #F9B640;
+    transition: 0.5s;
+}
 
 /* #fluid-1 .hero-img {
 position: absolute;
