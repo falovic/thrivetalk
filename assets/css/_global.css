@@ -1,0 +1,18 @@
+/* Global */
+
+/* Typography */
+@font-face {
+    font-family: 'Larsseit';
+    src: url('Fonts/Larsseit/Larsseit.eot');
+    src: url('Fonts/Larsseit/Larsseit.eot?#iefix') format('embedded-opentype'),
+         url('Fonts/Larsseit/Larsseit.woff') format('woff'),
+         url('Fonts/Larsseit/Larsseit.ttf') format('truetype'),
+         url('Fonts/Larsseit/Larsseit.svg#Larsseit') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+* {
+    font-family: 'Larsseit', sans-serif;
+}
