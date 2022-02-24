@@ -1,0 +1,25 @@
+/* Plans */
+
+.plans ul {
+    height: calc(100vw / 6 - 24px);
+    margin: 0 70px 0;
+}
+
+.plans li {
+    color: #E5E5E5;
+}
+
+.plans h2 {
+    color: #22356F;
+    font-size: 28px;
+    line-height: 33px;
+    letter-spacing: -0.03em;
+    padding-bottom: 30px;
+}
+
+.plans p {
+    color: rgba(34, 53, 111, 0.5);
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: -0.03em;
+}

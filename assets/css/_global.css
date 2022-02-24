@@ -26,7 +26,7 @@ a {
 
 #fluid-1 {
     background-color: #F4F9E2;
-    background-image: url('../img/bg-img.svg');
+    background-image: url('../img/hero-img.svg'), url('../img/bg-img.svg');
     background-repeat: no-repeat;
     background-position: top right;  
     background-size: auto;
@@ -35,10 +35,6 @@ a {
 
 #fluid-2 {
     background-color: #62D0DF;
-    background-image: url('../img/why-img.svg');
-    background-repeat: no-repeat;
-    background-position: right;  
-    background-size: auto;
 }
 
 #fluid-3 {
@@ -47,6 +43,23 @@ a {
 
 #fluid-4 {
     background-color: #E5E5E5;
+}
+
+#fluid-5 {
+    background-color: #E5E5E5;
+    margin-top: -40px;
+}
+
+#fluid-6 {
+    background-color: #E5E5E5;
+    background-image: url('../img/mdd-img.svg');
+    background-repeat: no-repeat;
+    background-position: left;  
+    background-size: contain;
+}
+
+#fluid-7 {
+    background-color: #22356F;
 }
 
 /* Scrollbar */

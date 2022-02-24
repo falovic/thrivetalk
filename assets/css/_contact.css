@@ -1,0 +1,43 @@
+/* Contact */
+
+.contact .col-lg-8 {
+    padding: 100px 0 40px 180px;
+}
+
+.contact h3 {
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 12px;
+    letter-spacing: 0.06em;
+}
+
+.contact h2 {
+    color: #fff;
+    font-size: 64px;
+    line-height: 94px;
+    letter-spacing: -0.01em;
+    padding: 230px 0 75px;
+}
+
+.contact p {
+    color: #fff;
+    font-size: 36px;
+    line-height: 53px;
+    letter-spacing: -0.005em;
+}
+
+.contact a {
+    color: #62D0DF;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0.1em;
+    padding-top: 80px;
+}
+
+.contact a:hover {
+    color: #F9B640;
+}
+
+.contact img {
+    float: right;
+}

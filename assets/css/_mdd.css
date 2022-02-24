@@ -1,0 +1,32 @@
+/* MDD */
+
+.mdd h3 {
+    color: #22356F;
+    font-size: 16px;
+    line-height: 12px;
+    letter-spacing: 0.06em;
+    margin: 100px 0 225px;
+}
+
+.mdd p {
+    color: #22356F;
+    font-size: 36px;
+    line-height: 53px;
+    letter-spacing: -0.01em;
+}
+
+.mdd span {
+    color: #6CD3E1;
+}
+
+.mdd a {
+    color: #FAB63E;
+    font-size: 16px;
+    line-height: 23px;
+    letter-spacing: 0.1em;
+    margin: 150px 0 40px;
+}
+
+.mdd a:hover {
+    color: #22356F;
+}
