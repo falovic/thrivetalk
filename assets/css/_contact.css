@@ -41,3 +41,38 @@
 .contact img {
     float: right;
 }
+
+/* Contact 2 */
+
+.contact-2 img {
+    float: left;
+}
+
+.contact-2 h5 {
+    color: #22356F;
+    font-size: 14px;
+    line-height: 11px;
+    letter-spacing: -0.006em;
+    padding-bottom: 40px;
+}
+
+.contact-2 p {
+    color: rgba(34, 53, 111, 0.5);
+    font-size: 14px;
+    line-height: 23px;
+    letter-spacing: -0.006em;
+}
+
+.tel {
+    color: rgba(34, 53, 111, 0.5);
+}
+
+.contact-2 .col-lg-12 p {
+    color: #FFF;
+    font-size: 14px;
+    line-height: 11px;
+    letter-spacing: -0.006em;
+    padding: 30px 200px;
+    margin: 0;
+    background-color: #62D0DF;
+}
