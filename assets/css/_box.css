@@ -1,0 +1,84 @@
+/* Box */
+
+.box {
+    margin-bottom: 120px;
+}
+
+.box li {
+    color: #E9B730;
+    font-size: 32px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+}
+
+.box .col-lg-3 ul {
+    border-top: 2px solid white;
+    height: calc(100vw / 4 - 24px);
+    padding-top: 30px;
+    margin: 70px 50px -70px;
+}
+
+.box .col-lg-4 ul {
+    border-top: 2px solid white;
+    height: calc(100vw / 3 - 24px);
+    padding-top: 30px;
+    margin: 90px 70px -90px;
+}
+
+.box span {
+    color: #fff;
+}
+
+.box .b1 {
+    background-color: #FFE2DE;
+}
+
+.box .b2 {
+    background-color: #C4E769;
+}
+
+.box .b3 {
+    background-color: #62D0DF;
+}
+
+.box .b4 {
+    background-color: #0052C1;
+}
+
+.box .b5 {
+    background-color: #22356F;
+}
+
+.box .b6 {
+    background-color: #0052C1;
+}
+
+.box .b7 {
+    background-image: url('../img/box-img.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.box .b8 {
+    background-color: #62D0DF;
+}
+
+.box .b9 {
+    background-color: #DEE1FF;
+}
+
+.box .b10 {
+    background-color: #8F00FF;
+}
+
+@media screen and (max-width: 991.5px) {
+
+    .b1, .b2, .b3, .b4, .b5, .b6, .b7, .b7, .b8, .b9, .b10 {
+        height: 100vw;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+}

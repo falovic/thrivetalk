@@ -4,12 +4,6 @@
     font-family: 'Larsseit', sans-serif;
 }
 
-ul, ol {
-    list-style-type: none !important;
-    margin: 0 !important;
-    padding: 0 !important;
-}
-
 a {
     display: inline-block !important;
     text-decoration: none !important;
@@ -45,6 +39,14 @@ a {
     background-repeat: no-repeat;
     background-position: right;  
     background-size: auto;
+}
+
+#fluid-3 {
+    background-color: #E5E5E5;
+}
+
+#fluid-4 {
+    background-color: #E5E5E5;
 }
 
 /* Scrollbar */
